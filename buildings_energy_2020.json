@@ -1,0 +1,532 @@
+[
+  {
+    "building_ref": "A021",
+    "building_name": "Craig Mair",
+    "gia_m2": 3190.0,
+    "gas_kwh_2020": 248553.0,
+    "electricity_kwh_2020": 233754.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 482307.0,
+    "energy_intensity_kwh_m2": 151.19
+  },
+  {
+    "building_ref": "A012 / A015",
+    "building_name": "Westbury Mt",
+    "gia_m2": 2023.0,
+    "gas_kwh_2020": 231521.0,
+    "electricity_kwh_2020": 186482.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 418003.0,
+    "energy_intensity_kwh_m2": 206.63
+  },
+  {
+    "building_ref": "A022",
+    "building_name": "Marine Centre Wales",
+    "gia_m2": 1888.0,
+    "gas_kwh_2020": 379469.0,
+    "electricity_kwh_2020": 404643.0,
+    "renewable_chp_kwh_2020": 4746.7,
+    "total_kwh": 788858.7,
+    "energy_intensity_kwh_m2": 417.83
+  },
+  {
+    "building_ref": "L115",
+    "building_name": "SEECS Building",
+    "gia_m2": 9779.0,
+    "gas_kwh_2020": 1120750.0,
+    "electricity_kwh_2020": 616564.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 1737314.0,
+    "energy_intensity_kwh_m2": 177.66
+  },
+  {
+    "building_ref": "L133",
+    "building_name": "Adeilad Deiniol",
+    "gia_m2": 4805.0,
+    "gas_kwh_2020": 403104.0,
+    "electricity_kwh_2020": 295382.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 698486.0,
+    "energy_intensity_kwh_m2": 145.37
+  },
+  {
+    "building_ref": "R209",
+    "building_name": "Thoday Building",
+    "gia_m2": 5601.0,
+    "gas_kwh_2020": 242064.0,
+    "electricity_kwh_2020": 407043.0,
+    "renewable_chp_kwh_2020": 17835.78,
+    "total_kwh": 666942.78,
+    "energy_intensity_kwh_m2": 119.08
+  },
+  {
+    "building_ref": "R212",
+    "building_name": "Wheldon Building",
+    "gia_m2": 3182.0,
+    "gas_kwh_2020": 231111.0,
+    "electricity_kwh_2020": 52858.0,
+    "renewable_chp_kwh_2020": 16990.57,
+    "total_kwh": 300959.57,
+    "energy_intensity_kwh_m2": 94.58
+  },
+  {
+    "building_ref": "R215",
+    "building_name": "Adeiliad Alun Roberts",
+    "gia_m2": 6454.0,
+    "gas_kwh_2020": 971091.0,
+    "electricity_kwh_2020": 787069.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 1758160.0,
+    "energy_intensity_kwh_m2": 272.41
+  },
+  {
+    "building_ref": "R227",
+    "building_name": "Memorial Building",
+    "gia_m2": 2901.0,
+    "gas_kwh_2020": 99415.0,
+    "electricity_kwh_2020": 119646.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 219061.0,
+    "energy_intensity_kwh_m2": 75.51
+  },
+  {
+    "building_ref": "R235",
+    "building_name": "Environment Centre Wales",
+    "gia_m2": 3717.0,
+    "gas_kwh_2020": 406653.0,
+    "electricity_kwh_2020": 467204.0,
+    "renewable_chp_kwh_2020": 17143.0,
+    "total_kwh": 891000.0,
+    "energy_intensity_kwh_m2": 239.71
+  },
+  {
+    "building_ref": "R239",
+    "building_name": "Brambell Building",
+    "gia_m2": 6773.0,
+    "gas_kwh_2020": 193551.0,
+    "electricity_kwh_2020": 726053.0,
+    "renewable_chp_kwh_2020": 14443.77,
+    "total_kwh": 934047.77,
+    "energy_intensity_kwh_m2": 137.91
+  },
+  {
+    "building_ref": "R611 / R612",
+    "building_name": "Gymnasium Sports Hall",
+    "gia_m2": 1725.0,
+    "gas_kwh_2020": 224294.0,
+    "electricity_kwh_2020": 18434.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 242728.0,
+    "energy_intensity_kwh_m2": 140.71
+  },
+  {
+    "building_ref": "R613/R615/R617",
+    "building_name": "Nantlle Lib Hiraethog",
+    "gia_m2": 4728.0,
+    "gas_kwh_2020": 687116.0,
+    "electricity_kwh_2020": 175805.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 862921.0,
+    "energy_intensity_kwh_m2": 182.51
+  },
+  {
+    "building_ref": "R605",
+    "building_name": "Adeiliad George",
+    "gia_m2": 2388.0,
+    "gas_kwh_2020": 306839.0,
+    "electricity_kwh_2020": 79320.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 386159.0,
+    "energy_intensity_kwh_m2": 161.71
+  },
+  {
+    "building_ref": "L246",
+    "building_name": "Bryn Eithin K L Block",
+    "gia_m2": 1394.0,
+    "gas_kwh_2020": 172862.0,
+    "electricity_kwh_2020": 31722.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 204584.0,
+    "energy_intensity_kwh_m2": 146.76
+  },
+  {
+    "building_ref": "L247",
+    "building_name": "Bryn Eithin J Block",
+    "gia_m2": 693.0,
+    "gas_kwh_2020": 85998.0,
+    "electricity_kwh_2020": 15781.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 101779.0,
+    "energy_intensity_kwh_m2": 146.87
+  },
+  {
+    "building_ref": "L250",
+    "building_name": "Tudno 1-7 Blocks P-S",
+    "gia_m2": 1869.0,
+    "gas_kwh_2020": 267311.0,
+    "electricity_kwh_2020": 46088.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 313399.0,
+    "energy_intensity_kwh_m2": 167.68
+  },
+  {
+    "building_ref": "L257",
+    "building_name": "Tudno 9-14 Blocks F-N",
+    "gia_m2": 4420.0,
+    "gas_kwh_2020": 632593.0,
+    "electricity_kwh_2020": 108496.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 741089.0,
+    "energy_intensity_kwh_m2": 167.67
+  },
+  {
+    "building_ref": "L263",
+    "building_name": "Cybi Block E",
+    "gia_m2": 2413.0,
+    "gas_kwh_2020": 345116.0,
+    "electricity_kwh_2020": 72807.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 417923.0,
+    "energy_intensity_kwh_m2": 173.20
+  },
+  {
+    "building_ref": "L264",
+    "building_name": "Cemlyn Block D",
+    "gia_m2": 2793.0,
+    "gas_kwh_2020": 399465.0,
+    "electricity_kwh_2020": 94159.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 493624.0,
+    "energy_intensity_kwh_m2": 176.74
+  },
+  {
+    "building_ref": "L265",
+    "building_name": "Penmon Block C",
+    "gia_m2": 2651.0,
+    "gas_kwh_2020": 379156.0,
+    "electricity_kwh_2020": 76105.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 455261.0,
+    "energy_intensity_kwh_m2": 171.73
+  },
+  {
+    "building_ref": "L224",
+    "building_name": "Barlows Block B",
+    "gia_m2": 787.0,
+    "gas_kwh_2020": 112560.0,
+    "electricity_kwh_2020": 94185.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 206745.0,
+    "energy_intensity_kwh_m2": 262.70
+  },
+  {
+    "building_ref": "L245",
+    "building_name": "St Marys Block A",
+    "gia_m2": 3076.0,
+    "gas_kwh_2020": 439941.0,
+    "electricity_kwh_2020": 104772.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 544713.0,
+    "energy_intensity_kwh_m2": 177.08
+  },
+  {
+    "building_ref": "R106",
+    "building_name": "Neuadd Garth",
+    "gia_m2": 6502.0,
+    "gas_kwh_2020": 468258.0,
+    "electricity_kwh_2020": 112057.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 580315.0,
+    "energy_intensity_kwh_m2": 89.25
+  },
+  {
+    "building_ref": "R112",
+    "building_name": "Neuadd Rathbone",
+    "gia_m2": 3814.0,
+    "gas_kwh_2020": 240568.0,
+    "electricity_kwh_2020": 134346.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 374914.0,
+    "energy_intensity_kwh_m2": 98.30
+  },
+  {
+    "building_ref": "R127",
+    "building_name": "Lloyd Building",
+    "gia_m2": 1157.0,
+    "gas_kwh_2020": 93390.0,
+    "electricity_kwh_2020": 41540.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 134930.0,
+    "energy_intensity_kwh_m2": 116.62
+  },
+  {
+    "building_ref": "R139/R142/R145",
+    "building_name": "Main Arts Library",
+    "gia_m2": 16594.0,
+    "gas_kwh_2020": 2921815.0,
+    "electricity_kwh_2020": 710256.0,
+    "renewable_chp_kwh_2020": 837.35,
+    "total_kwh": 3632908.35,
+    "energy_intensity_kwh_m2": 218.93
+  },
+  {
+    "building_ref": "R147",
+    "building_name": "Brigantia",
+    "gia_m2": 6706.0,
+    "gas_kwh_2020": 462290.0,
+    "electricity_kwh_2020": 439039.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 901329.0,
+    "energy_intensity_kwh_m2": 134.41
+  },
+  {
+    "building_ref": "R502",
+    "building_name": "Hen Goleg",
+    "gia_m2": 2005.0,
+    "gas_kwh_2020": 148024.0,
+    "electricity_kwh_2020": 70003.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 218027.0,
+    "energy_intensity_kwh_m2": 108.74
+  },
+  {
+    "building_ref": "R506/07/08/09/10",
+    "building_name": "Management Centre",
+    "gia_m2": 0.0,
+    "gas_kwh_2020": 1406271.0,
+    "electricity_kwh_2020": 433834.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 1840105.0,
+    "energy_intensity_kwh_m2": 0.0
+  },
+  {
+    "building_ref": "R511",
+    "building_name": "JP Hall",
+    "gia_m2": 1655.0,
+    "gas_kwh_2020": 285010.0,
+    "electricity_kwh_2020": 195148.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 480158.0,
+    "energy_intensity_kwh_m2": 290.13
+  },
+  {
+    "building_ref": "L303",
+    "building_name": "Fron Heulog",
+    "gia_m2": 3117.0,
+    "gas_kwh_2020": 128660.0,
+    "electricity_kwh_2020": 111845.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 240505.0,
+    "energy_intensity_kwh_m2": 77.16
+  },
+  {
+    "building_ref": "L348",
+    "building_name": "Ffriddoedd Refectory",
+    "gia_m2": 1803.0,
+    "gas_kwh_2020": 324912.0,
+    "electricity_kwh_2020": 216185.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 541097.0,
+    "energy_intensity_kwh_m2": 300.11
+  },
+  {
+    "building_ref": "L466",
+    "building_name": "Gwynant",
+    "gia_m2": 2400.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 252068.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 252068.0,
+    "energy_intensity_kwh_m2": 105.03
+  },
+  {
+    "building_ref": "L465",
+    "building_name": "Idwal",
+    "gia_m2": 1678.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 176164.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 176164.0,
+    "energy_intensity_kwh_m2": 104.98
+  },
+  {
+    "building_ref": "L467",
+    "building_name": "Braint",
+    "gia_m2": 1416.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 148763.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 148763.0,
+    "energy_intensity_kwh_m2": 105.06
+  },
+  {
+    "building_ref": "L472",
+    "building_name": "Adda",
+    "gia_m2": 1050.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 110234.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 110234.0,
+    "energy_intensity_kwh_m2": 104.98
+  },
+  {
+    "building_ref": "L468",
+    "building_name": "Llanddwyn",
+    "gia_m2": 3078.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 299411.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 299411.0,
+    "energy_intensity_kwh_m2": 97.27
+  },
+  {
+    "building_ref": "L469",
+    "building_name": "Glaslyn",
+    "gia_m2": 2752.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 246134.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 246134.0,
+    "energy_intensity_kwh_m2": 89.44
+  },
+  {
+    "building_ref": "L470",
+    "building_name": "Aberffraw",
+    "gia_m2": 1751.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 156607.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 156607.0,
+    "energy_intensity_kwh_m2": 89.44
+  },
+  {
+    "building_ref": "L471",
+    "building_name": "Crafnant",
+    "gia_m2": 1691.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 151240.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 151240.0,
+    "energy_intensity_kwh_m2": 89.44
+  },
+  {
+    "building_ref": "L359",
+    "building_name": "JMJ Tegfan",
+    "gia_m2": 1342.0,
+    "gas_kwh_2020": 37299.0,
+    "electricity_kwh_2020": 77067.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 114366.0,
+    "energy_intensity_kwh_m2": 85.22
+  },
+  {
+    "building_ref": "L358",
+    "building_name": "JMJ Bryn Dinas",
+    "gia_m2": 2785.0,
+    "gas_kwh_2020": 77406.0,
+    "electricity_kwh_2020": 176895.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 254301.0,
+    "energy_intensity_kwh_m2": 91.31
+  },
+  {
+    "building_ref": "L361",
+    "building_name": "Cefn Y Coed",
+    "gia_m2": 3912.0,
+    "gas_kwh_2020": 108729.0,
+    "electricity_kwh_2020": 300797.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 409526.0,
+    "energy_intensity_kwh_m2": 104.68
+  },
+  {
+    "building_ref": "L363",
+    "building_name": "Y Borth",
+    "gia_m2": 4126.0,
+    "gas_kwh_2020": 114705.0,
+    "electricity_kwh_2020": 360729.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 475434.0,
+    "energy_intensity_kwh_m2": 115.23
+  },
+  {
+    "building_ref": "L360",
+    "building_name": "Y Glyder",
+    "gia_m2": 4017.0,
+    "gas_kwh_2020": 111675.0,
+    "electricity_kwh_2020": 228154.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 339829.0,
+    "energy_intensity_kwh_m2": 84.60
+  },
+  {
+    "building_ref": "L362",
+    "building_name": "Elidir",
+    "gia_m2": 2243.0,
+    "gas_kwh_2020": 62369.0,
+    "electricity_kwh_2020": 197302.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 259671.0,
+    "energy_intensity_kwh_m2": 115.77
+  },
+  {
+    "building_ref": "L463",
+    "building_name": "Alaw",
+    "gia_m2": 3786.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 347280.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 347280.0,
+    "energy_intensity_kwh_m2": 91.73
+  },
+  {
+    "building_ref": "L462",
+    "building_name": "Peris",
+    "gia_m2": 3784.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 347005.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 347005.0,
+    "energy_intensity_kwh_m2": 91.70
+  },
+  {
+    "building_ref": "L461",
+    "building_name": "Enlli",
+    "gia_m2": 3692.0,
+    "gas_kwh_2020": 0.0,
+    "electricity_kwh_2020": 338568.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 338568.0,
+    "energy_intensity_kwh_m2": 91.70
+  },
+  {
+    "building_ref": "L418",
+    "building_name": "Neuadd Reichel",
+    "gia_m2": 4752.0,
+    "gas_kwh_2020": 773481.0,
+    "electricity_kwh_2020": 330403.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 1103884.0,
+    "energy_intensity_kwh_m2": 232.30
+  },
+  {
+    "building_ref": "L406",
+    "building_name": "Canolfan Brailsford",
+    "gia_m2": 6628.0,
+    "gas_kwh_2020": 731752.0,
+    "electricity_kwh_2020": 284327.0,
+    "renewable_chp_kwh_2020": 44316.13,
+    "total_kwh": 1060395.13,
+    "energy_intensity_kwh_m2": 159.99
+  },
+  {
+    "building_ref": "W002",
+    "building_name": "Cambrian House",
+    "gia_m2": 2614.0,
+    "gas_kwh_2020": 256112.0,
+    "electricity_kwh_2020": 132766.0,
+    "renewable_chp_kwh_2020": 0.0,
+    "total_kwh": 388878.0,
+    "energy_intensity_kwh_m2": 148.77
+  }
+]
